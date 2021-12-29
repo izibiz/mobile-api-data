@@ -9,19 +9,18 @@
                 "type": "svg",
                 "color": "#FFFFFF",
                 "width": 25.0
-           
-                },
-                {
-                    "priority": "2",
-                    "label": "Giden",
-                    "apiUrl": "https://api.izibiz.com.tr/v1/einvoices/outbox",
-                    "icon": {
-                        "url": "https://cdn.izibiz.com.tr/vendor/izibiz/icons/outbox.svg",
-                        "type": "svg",
-                        "color": "#FFFFFF",
-                        "width": 25.0
-                    },
-                  
-            ]
+            },
+            {
+                "priority": "2",
+                "label": "Giden",
+                "apiUrl": "https://api.izibiz.com.tr/v1/einvoices/outbox",
+                "icon": {
+                    "url": "https://cdn.izibiz.com.tr/vendor/izibiz/icons/outbox.svg",
+                    "type": "svg",
+                    "color": "#FFFFFF",
+                    "width": 25.0
+                }
+            }
         }
     ]
+}
